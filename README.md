@@ -12,3 +12,11 @@
   -  Implementar dos metodos en alguna Clase y usar @property.
   -  Implementar encapsulamiento.
   -  Implementar setter()
+
+4.  
+
+5.  
+
+6.  
+
+7.  
